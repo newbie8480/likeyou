@@ -1,0 +1,29 @@
+body {
+    font-family: 'Comic Sans MS', cursive;
+    background-color: black; /* Change background color to black */
+    text-align: center;
+  }
+  
+  h1 {
+    color: #ff5f83;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: none;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  #yesButton {
+    background-color: #8be4dc;
+    color: white;
+  }
+  
+  #noButton {
+    background-color: #ff7b89;
+    color: white;
+  }
+  
